@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+}
+
+
+.venkat{
+    background-color: #7600BC;
+    padding: 10px;
+    
+}
+.venkat img{
+    width:24px;
+    height:24px;
+}
+.man{
+    display: flex;
+    align-items: center;
+    margin-right:10px;
+    display: flex;
+    align-items: end;
+}
+.nava a{
+    
+    text-decoration: none;
+    padding: 8px;
+    
+    
+    color:rgb(227, 217, 217);
+    
+}
+a:hover{
+    color:rgb(238, 236, 236);
+    border-color: aqua;
+    border:1px solid #7600BC ;
+    transition: all;
+    transition-duration: 1s;
+}
+.nava{
+    display: flex;
+    justify-content: end; 
+    vertical-align: middle;   
+}
+.immag{
+    display:flex;
+}
+#gandi{
+    width: 600px;
+}
+.intro{
+    display: flex;
+}
+.intro h4{
+    color: aqua;
+    font-size: 60px;
+}
+.intro img{
+    width: 50px;
+    height: 50px;
+}
+.para1{
+    font-size: 20px;
+    text-align: justify;
+}
+.skull{
+    width:300px;
+    height: 200px;
+   
+    display:flex;
+  }
+  .skill1{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid blue;
+  }
+  img{
+    width: 200px;
+    height: 200px
+  }
+.proj{
+    margin-top: 150px;
+}
+
+
+
+
+
+.proj h3{
+   padding: 40px 40px;
+}
+.box{
+    display: flex;
+}
+
+.final1{
+    
+    border: 2px solid rgb(20, 6, 6);
+    border-radius: 20px;
+   width: 400px;
+   margin: 10px;
+   padding: 20px;
+    
+}
+.total_sec h1{
+    color: blueviolet;
+    margin-bottom: 20px;
+    border-
+
+}
+textarea{
+    width: 90%;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: #7600BC;
+    
+}
+button:hover{
+color:white;
+
+}
+
+
+
+
+
+

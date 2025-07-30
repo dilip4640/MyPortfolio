@@ -1,0 +1,25 @@
+header{
+    background-color: aquamarine;
+    display: flex;
+}
+.venkat img{
+    width: 24px;
+    height: 24px;
+}
+.man{
+    display: flex;
+    align-items: center;
+}
+section{
+    display: flex;
+}
+.nava_sub{
+    float: left;
+}
+
+/*.nava a{
+    text-decoration: none;
+    padding: 10px;
+}*/
+
+
